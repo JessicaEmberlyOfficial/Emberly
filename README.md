@@ -5,7 +5,7 @@ Emberly is a feature-rich character generator built in python.
 
 ## What is included by default
 * A name generator.
-* A Gender generator.
+* A gender generator.
 * A pronoun generator.
 * A relation generator.
 * A body hair percentage generator which will affect the hair generation.
