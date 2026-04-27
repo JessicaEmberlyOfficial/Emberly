@@ -16,7 +16,7 @@ FIRSTNAMES = ["Alexis", "Jeff", "Jessica", "Ruby", "Trey", "John", "Jake", "Mark
 LASTNAMES = ["Phillips", "Bowden", "Valentine", "Brown", "Jackson", "Henson", "Johnson", "Patel", "Silva", "Wang", "O'Conner", "Henderson", "Smith", "Perkins", "Thompson", "Rose", "Clem", "Pruett", "Sears", "Maxine", "Evelyn"]
 
 # GENDER GENERATOR
-GENDERS = ["Agender", "Genderfluid", "Bigender", "Transgender", "Nonbinary", "Pangender","Intersex", "Asexual", "Demigender", "Questioning", "Bisexual", "Demiboy", "Genderqueer", "Androgynous", "Female", "Male", "Cis Female", "Cis Male"]
+GENDERS = ["Agender", "Genderfluid", "Bigender", "Transgender", "Nonbinary", "Pangender","Intersex", "Asexual", "Demigender", "Demiboy", "Genderqueer", "Androgynous", "Female", "Male"]
 
 PRONOUNS = ["She/Her/Hers", "He/Him/His", "They/them/theirs", "Xe/xem/xyrs", "Ze/zir/zirs"]
 
