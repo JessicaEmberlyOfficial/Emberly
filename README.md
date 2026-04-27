@@ -1,8 +1,7 @@
 # Emberly
 Emberly is a feature-rich character generator built in python.
 
-<img width="500" height="500" alt="1000004561" src="https://github.com/user-attachments/assets/6d6baef0-b1d4-489c-9323-79d1ac87d75a" />
-
+<img width="500" height="500" alt="1000004564" src="https://github.com/user-attachments/assets/35005f97-57d0-4678-b96e-1510888dccc8" />
 
 ## What is included by default
 * A name generator.
