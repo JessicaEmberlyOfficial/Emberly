@@ -3,7 +3,7 @@ Emberly is a feature-rich character generator built in python.
 
 <img width="500" height="500" alt="1000004564" src="https://github.com/user-attachments/assets/35005f97-57d0-4678-b96e-1510888dccc8" />
 
-## What is included by default
+# What is included by default
 * A name generator.
 * A gender generator.
 * A pronoun generator.
@@ -15,7 +15,7 @@ Emberly is a feature-rich character generator built in python.
 * A height generator.
 * A weapons generator.
 
-### Goals for the future
+# Goals for the future
 * More Hairstyles.
 * A highly-detailed clothes and accessories generator.
 * More weapons.
@@ -23,7 +23,7 @@ Emberly is a feature-rich character generator built in python.
 * Pictures for generations.
 
 
-### "How do I help?"
+# "How do I help?"
 You can help the development of Emberly by sending in a ticket with your changes.
 
 ### Requirements
