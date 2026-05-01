@@ -14,12 +14,16 @@ Emberly is a feature-rich character generator built in python.
   * Yearly salary
 * A height generator.
 * A weapons generator.
+* Cash generator.
+* Address generator.
+* Save system
 
 # Goals for the future
 * More Hairstyles.
-* A highly-detailed clothes and accessories generator.
 * More weapons.
-* Address Generator.
+* More types of currency.
+* More addresses.
+* A highly-detailed clothes and accessories generator.
 * Pictures for generations.
 
 
