@@ -4,27 +4,27 @@ Emberly is a feature-rich character generator built in python.
 <img width="500" height="500" alt="1000004564" src="https://github.com/user-attachments/assets/35005f97-57d0-4678-b96e-1510888dccc8" />
 
 # What is included by default
-* A name generator.
-* A gender generator.
-* A pronoun generator.
-* A relation generator.
-* A body hair percentage generator which will affect the hair generation.
-* Detailed Job Generator. 
+* A name generator
+* A gender generator
+* A pronoun generator
+* A relation generator
+* A body hair percentage generator which will affect the hair generation
+* Detailed Job Generator
   * Sub-Categories (WIP)
   * Yearly salary
-* A height generator.
-* A weapons generator.
-* Cash generator.
-* Address generator.
+* A height generator
+* A weapons generator
+* Cash generator
+* Address generator (WIP)
 * Save system
 
 # Goals for the future
-* More Hairstyles.
-* More weapons.
-* More types of currency.
-* More addresses.
-* A highly-detailed clothes and accessories generator.
-* Pictures for generations.
+* More Hairstyles
+* More weapons
+* More types of currency
+* More addresses
+* A highly-detailed clothes and accessories generator
+* Pictures for generations
 
 
 # "How do I help?"
