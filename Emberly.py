@@ -10,42 +10,51 @@ time.sleep(1)
 FAMILYTERMS = "Mother", "Father", "Son", "Daughter", "Brother", "Sister", "Aunt", "Uncle", "Cousin", "Neice", "Nephew", "Grandparent", "Grandchild", "In-law", "Stepmother", "Stepfather", "Stepson", "Stepdaughter"
 
 # FIRST NAMES GENERATOR
-FIRSTNAMES = ["Alexis", "Jeff", "Jessica", "Ruby", "Trey", "John", "Jake", "Mark", "Jason", "Sarah", "Amy", "Gerald", "Rook", "Nik", "Emma", "Gabi", "Gabriella", "Emily", "Parker", "Don", "Donna", "Linda", "Charles", "Charlie", "Lucas", "Donald", "Vennice", "Victoria", "Sebastian", "Sharon", "Tiffany", "Jay", "Elmer", "Mike", "Nathan", "Greg", "Alexis", "Alexander", "Aaron", "Adrian", "Andrew", "Aahana", "Adam", "Adison", "Alice", "Amari", "Angel", "Anthony", "Ava", "Aaliyah", "Aaradhya", "Abigail", "Achilles", "Amy", "Aimée", "Anders", "Archer", "Audrey", "August", "Bob", "Benjamin", "Bixby", "Brian", "Blake", "Birtha", "Brandon", "Billy", "Bill", "Bobby", "Carol", "Candice", "Cindy", "Cynthia", "Dewy", "Dustin", "Drake", "Eric", "Eden", "Emmma", "Emily"]
+FIRSTNAMES = "Alexis", "Jeff", "Jessica", "Ruby", "Trey", "John", "Jake", "Mark", "Jason", "Sarah", "Amy", "Gerald", "Rook", "Nik", "Emma", "Gabi", "Gabriella", "Emily", "Parker", "Don", "Donna", "Linda", "Charles", "Charlie", "Lucas", "Donald", "Vennice", "Victoria", "Sebastian", "Sharon", "Tiffany", "Jay", "Elmer", "Mike", "Nathan", "Greg", "Alexis", "Alexander", "Aaron", "Adrian", "Andrew", "Aahana", "Adam", "Adison", "Alice", "Amari", "Angel", "Anthony", "Ava", "Aaliyah", "Aaradhya", "Abigail", "Achilles", "Amy", "Aimée", "Anders", "Archer", "Audrey", "August", "Bob", "Benjamin", "Bixby", "Brian", "Blake", "Birtha", "Brandon", "Billy", "Bill", "Bobby", "Carol", "Candice", "Cindy", "Cynthia", "Dewy", "Dustin", "Drake", "Eric", "Eden", "Emmma", "Emily", "Siouxsie", "Liam", "Noah", "Oliver", "Olivia", "Amelia"
 
 # LAST NAME GENERATOR
-LASTNAMES = ["Phillips", "Bowden", "Valentine", "Brown", "Jackson", "Henson", "Johnson", "Patel", "Silva", "Wang", "O'Conner", "Henderson", "Smith", "Perkins", "Thompson", "Rose", "Clem", "Pruett", "Sears", "Maxine", "Evelyn"]
+LASTNAMES = "Phillips", "Bowden", "Valentine", "Brown", "Jackson", "Henson", "Johnson", "Patel", "Silva", "Wang", "O'Conner", "Henderson", "Smith", "Perkins", "Thompson", "Rose", "Clem", "Pruett", "Sears", "Maxine", "Evelyn", "Gonzales"
+
+SEX = "Female", "Male"
 
 # GENDER GENERATOR
-GENDERS = ["Agender", "Genderfluid", "Bigender", "Transgender", "Nonbinary", "Pangender","Intersex", "Asexual", "Demigender", "Demiboy", "Genderqueer", "Androgynous", "Female", "Male"]
+GENDERS = "Agender", "Genderfluid", "Bigender", "Transgender", "Nonbinary", "Pangender", "Demigender", "Demiboy", "Genderqueer", "Androgynous", "Female", "Male"
 
-PRONOUNS = ["She/Her/Hers", "He/Him/His", "They/them/theirs", "Xe/xem/xyrs", "Ze/zir/zirs"]
+PRONOUNS = "She/Her/Hers", "He/Him/His", "They/them/theirs", "Xe/xem/xyrs", "Ze/zir/zirs"
+
 
 # JOB GENERATOR
-JOBS = ["Engineer", "Electrician", "Entertainer", "Factory Worker", "Chef", "Programmer", "IT", "Security Researcher", "Musician", "Film Producer", "Film Director", "Author", "Court Judge", "Lawyer", "Server", "NOJOB"]
+JOBS = "Engineer", "Electrician", "Entertainer", "Factory Worker", "Chef", "Programmer", "IT", "Security Researcher", "Musician", "Film Producer", "Film Director", "Author", "Court Judge", "Lawyer", "Server", "NOJOB"
 
-WEAPONS = ["Colt Single Action Army Revolver", "AK-47", "M16 Rifle", "Brass Knuckles", "Scythe"]
+WEAPONS = "Colt Single Action Army Revolver", "AK-47", "M16 Rifle", "Brass Knuckles", "Scythe"
 
-
-# NUMBER GENERATOR
-NUM = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
 
 # NUMBER GENERATOR
-NUM2 = ["3", "4", "5", "6", "7"]
+NUM = "1", "2", "3", "4", "5", "6", "7", "8", "9"
+
+# NUMBER GENERATOR
+NUM2 = "3", "4", "5", "6", "7"
 
 #NUMBER GENERATOR
-NUM3 = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"]
+NUM3 = "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"
 
 # PROGRAMMING LANGUAGES
-PL = ["C", "C++", "C#", "Objective-C", "Javascript", "Ruby", "Python"]
+PL = "A#", "A-0", "A+", "ABAP", "ABC", "ACC", "Accent", "Action!", "ActionScript", "Actor", "Ada", "Adenine", "AdvPL", "Agda", "Agilent VEE", "Agora", "AIMMS", "Aldor", "Alef", "ALF", "ALGOL 58", "ALGOL 60", "ALGOL 68", "ALGOL W", "Alice ML", "Alma-0", "Ambient Talk", "Amiga E", "AMPL", "Analitik", "AngelScript", "Apache Pig Latin", "Apex", "APL", "MIT App Inventor", "AppleScript", "APT", "Arc", "ArkTS", "ARexx", "Argus", "ASM", "AssemblyScript", "ATS", "AutoHotkey", "AutoIt", "AutoLISP", "Averest", "AWK", "Axum", "C", "C++", "C#", "Objective-C", "Javascript", "Ruby", "Python", "Brainfuck", 
 
 # LOG
 # added more hair 10/25/25
 
 # HAIRSTYLES GENERATOR
-HAIRSTYLES = ["Mohawk", "Wolf Cut", "Bowl Cut", "Skullet", "Chelsea Cut", "Long Layered Cut", "Bob", "Mullet", "Bixie", "Afro"]
+HAIRSTYLES = "Mohawk", "Wolf Cut", "Bowl Cut", "Skullet", "Chelsea Cut", "Long Layered Cut", "Bob", "Mullet", "Bixie", "Afro"
 
 # COLORS
-COLORS = ["Red", "Blue", "Yellow", "Green", "Orange", "Purple"]
+COLORS = "Red", "Blue", "Yellow", "Green", "Orange", "Purple"
+
+# STREET NAMES
+STREETS = "Broadway", "Phillips"
+
+# DIRECTIONS
+DIRECTIONS = "North", "East", "South", "West"
 
 # print(len(FAMILYTERMS))
 # print(len(FIRSTNAMES))
@@ -86,6 +95,12 @@ ft = random.choice(FAMILYTERMS)
 # CHOOSE LETTER
 letter = random.randint(0, 26)
 
+# CHOOSE DIRECTION
+direction = random.choice(DIRECTIONS)
+
+# CHOOSE STREET NAME
+streetname = random.choice(STREETS)
+
 # CHOOSE FIRST NAME
 fn = random.choice(FIRSTNAMES)
 
@@ -100,6 +115,9 @@ pl = random.choice(PL)
 
 # CHOOSE HAIR STYLE
 ht = random.choice(HAIRSTYLES)
+
+# CHOOSE SEX
+sex = random.choice(SEX)
 
 # CHOOSE GENDER
 gender = random.choice(GENDERS)
@@ -124,6 +142,12 @@ num4 = random.choice(NUM2)
 
 # CHOOSE NUMBER (5)
 num5 = random.choice(NUM3)
+
+# GENERATE NUMBER (1)
+num6 = random.randint(0, 1000)
+
+# GENERATE NUMBER (2)
+num7 = random.randint(100, 1000)
 
 # CHOOSE HAIR COLOR
 hc = random.randint(0, 5)
@@ -155,6 +179,9 @@ rlhcolor = random.randint(0, 5)
 # CHOOSE BACK HAIR COLOR
 bhcolor = random.randint(0, 5)
 
+# CHOOSE E-CC-NUMBER
+ECCN = random.randint(0, 9999)
+
 os.system("clear")
 
 # PRINT ART
@@ -164,10 +191,10 @@ print("""▄▖▖  ▖▄ ▄▖▄▖▖ ▖▖
                 """)
 
 # PRINT FIRST NAME
-print("\nYour characters first name: " + fn)
+print("Your character's first name: " + fn)
 
 # PRINT LAST NAME
-print("Your characters last name: " + ln)
+print("Your character's last name: " + ln)
 
 print(" ")
 
@@ -176,12 +203,22 @@ print(fn + "'s height: " + num3 + "'" + num4)
 
 print(" ")
 
+# PRINT SEX
+print(fn + "'s sex: " + sex)
+
+# PRINT GENDER
 print(fn + "'s gender: " + gender)
 
+# PRINT PRONOUNS
 print(fn + "'s pronouns: " + pronouns)
 
 # PRINT RELATION
 print(fn + "'s relation: " + ft)
+
+print(" ")
+
+# PRINT ADDRESS
+print(fn + "'s address: " + str(num7) + " " + direction + " " + streetname)
 
 print(" ")
 
@@ -242,6 +279,10 @@ if (jb == "Factory Worker"):
   
 print(" ")
 
+print(fn + "'s cash amount: $" + str(num6))
+  
+print(" ")
+
 # PRINT WEAPON IF ANY
 if (lor8 == 1):
   print(fn + "'s weapon: " + weapons)
@@ -262,7 +303,6 @@ print(fn + "'s hair color: " + COLORS[hc])
     
 # PRINT EYE COLOR (L)
 print(fn + "'s left eye color: " + COLORS[lec])
-
 # PRINT EYE COLOR (R)
 print (fn + "'s right eye color: " + COLORS[rec])
 
@@ -303,3 +343,146 @@ if (bhpercentage > 50):
   print(fn + "'s right leg hair color: " + COLORS[rlhcolor])
 else:
   print(fn + " does not have any right leg hair.")
+
+print(" ")
+
+question = input("Save character? (y)es, or (n)o: ")
+
+if question == "y":
+  os.system("touch " + "E-CC-" + str(ECCN) + ".txt")
+  with open('E-CC-' + str(ECCN) + '.txt', 'w') as f:
+    f.write("""
+▄▖▖  ▖▄ ▄▖▄▖▖ ▖▖
+▙▖▛▖▞▌▙▘▙▖▙▘▌ ▌▌
+▙▖▌▝ ▌▙▘▙▖▌▌▙▖▐ """ + "\n" + "\n" + "Your character's first name: " + fn + "\n" + "Your character's last name: " + ln + "\n" + "\n" + fn + "'s height: " + num3 + "'" + num4 + "\n" + "\n" + fn + "'s sex: " + sex + "\n" + fn + "'s gender: " + gender + "\n" + fn + "'s pronouns: " + pronouns + "\n" + fn + "'s relation: " + ft + "\n" + "\n" + fn + "'s address: " + str(num7) + " " + direction + " " + streetname + "\n" + "\n")
+
+if(jb == "Programmer"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(jb + "\n" + fn + "'s Programming Language: " + pl)
+  
+if (jb == "NOJOB"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + " does not have a job.")
+  
+if (jb != "NOJOB" and jb != "Programmer"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + "'s job: " + jb)
+
+# PRINT YEARLY INCOME
+if (jb == "Programmer"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write("\n" + fn + "'s yearly salary: $" + num + num2 + ",000")
+  
+if (jb == "Engineer"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write("\n" + fn + "'s yearly salary: $" + num + num2 + ",000")
+  
+if (jb == "Author"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write("\n" + fn + "'s yearly salary: $" + num + num2 + ",000")
+
+if (jb == "Electrician"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write("\n" + fn + "'s yearly salary: $" + num + num2 + ",000")
+  
+if (jb == "Chef"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write("\n" + fn + "'s yearly salary: $" + num + num2 + ",000")
+  
+if (jb == "Security Researcher"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write("\n" + fn + "'s yearly salary: $" + num + num2 + ",000")
+  
+if (jb == "IT"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write("\n" + fn + "'s yearly salary: $" + num + num2  + ",000")
+  
+if (jb == "Court Judge"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write("\n" + fn + "'s yearly salary: $" + num + num2 + num3 + ",000")
+  
+if (jb == "Musician"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write("\n" + fn + "'s yearly salary: $" + num + num2 + ",000")
+  
+if (jb == "Lawyer"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write("\n" + fn + "'s yearly salary: $" + num + num2 + num3 + ",000")
+  
+if (jb == "Film Producer"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write("\n" + fn + "'s yearly salary: $" + num + num2 + num3 + ",000")
+  
+if (jb == "Film Director"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write("\n" + fn + "'s yearly salary: $" + num + num2 + num3 + ",000")
+  
+if (jb == "Entertainer"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write("\n" + fn + "'s yearly salary: $" + num + num2 + ",000")
+  
+if (jb == "Factory Worker"):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write("\n" + fn + "'s yearly salary: $" + num + num2 + ",000")
+    
+with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+  f.write("\n" + "\n" + fn + "'s cash amount: $" + str(num6) + "\n" + "\n")
+  
+if (lor8 == 1):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + "'s weapon: " + weapons)
+else:
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + " does not have a weapon.")
+
+with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+  f.write("\n" + "\n" + fn + "'s body hair percentage: " + percent + "%" + "\n" + fn + "'s hairstyle: " + ht + "\n" + fn + "'s hair color: " + COLORS[hc] + "\n" + fn + "'s left eye color: " + COLORS[lec] + "\n" + fn + "'s right eye color: " + COLORS[rec] + "\n")
+
+if (bhpercentage > 50):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + "'s left armpit hair color: " + COLORS[lahcolor] + "\n")
+else:
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + " does not have any left armpit hair." + "\n")
+
+if (bhpercentage > 50):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + "'s right armpit hair  color: " + COLORS[rahcolor] + "\n")
+else:
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + " does not have any right armpit hair." + "\n")
+
+if (bhpercentage > 50):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + "'s chest hair color: " + COLORS[chcolor] + "\n")
+else:
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + " does not have any chest hair." + "\n")
+
+if (bhpercentage > 50):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + "'s stomach hair color: " + COLORS[shcolor] + "\n")
+else:
+    with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+      f.write(fn + " does not have any stomach hair." + "\n")
+
+if (bhpercentage > 50):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + "'s back hair color: " + COLORS[bhcolor] + "\n")
+else:
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + " does not have any back hair" + "\n")
+
+if (bhpercentage > 50):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + "'s left leg hair color: " + COLORS[llhcolor] + "\n")
+else:
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + " does not have any left leg hair." + "\n")
+
+if (bhpercentage > 50):
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + "'s right leg hair color: " + COLORS[rlhcolor] + "\n")
+else:
+  with open ('E-CC-' + str(ECCN) + '.txt', 'a') as f:
+    f.write(fn + " does not have any right leg hair." + "\n")
