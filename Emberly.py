@@ -22,7 +22,6 @@ GENDERS = "Agender", "Genderfluid", "Bigender", "Transgender", "Nonbinary", "Pan
 
 PRONOUNS = "She/Her/Hers", "He/Him/His", "They/them/theirs", "Xe/xem/xyrs", "Ze/zir/zirs"
 
-
 # JOB GENERATOR
 JOBS = "Engineer", "Electrician", "Entertainer", "Factory Worker", "Chef", "Programmer", "IT", "Security Researcher", "Musician", "Film Producer", "Film Director", "Author", "Court Judge", "Lawyer", "Server", "NOJOB"
 
@@ -35,7 +34,7 @@ NUM = "1", "2", "3", "4", "5", "6", "7", "8", "9"
 # NUMBER GENERATOR
 NUM2 = "3", "4", "5", "6", "7"
 
-#NUMBER GENERATOR
+# NUMBER GENERATOR
 NUM3 = "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"
 
 # PROGRAMMING LANGUAGES
@@ -45,13 +44,13 @@ PL = "A#", "A-0", "A+", "ABAP", "ABC", "ACC", "Accent", "Action!", "ActionScript
 # added more hair 10/25/25
 
 # HAIRSTYLES GENERATOR
-HAIRSTYLES = "Mohawk", "Wolf Cut", "Bowl Cut", "Skullet", "Chelsea Cut", "Long Layered Cut", "Bob", "Mullet", "Bixie", "Afro"
+HAIRSTYLES = "Mohawk", "Wolf Cut", "Bowl Cut", "Skullet", "Chelsea Cut", "Long Layered Cut", "Bob Cut", "Mullet", "Bixie", "Afro", "Buzz Cut", "Bouffant", "Broccoli Haircut", "Bunches", "Butch Cut", "Caesar Cut", "Chonmage", "Comb Over", "Conk", "Crew Cut", "Curtained Hair", "Dido Flip", "Ducktail", "Edgar Cut", "Eton Crop", "Fauxhawk", "Flattop", "French Crop", "Frosted Tips", "Hi-top Fade", "High and Tight", "Induction Cut", "Ivy League", "Marcel Waves", "Mop-top", "Pageboy", "Pixie Cut", "Pompadour", "Quiff", "The Seven", "Shape-up", "Skin Fade", "Slicked-back", "Titus Cut", "Tonsure", "Two Block", "Undercut", "Waves", "Wings", "Beehive", "Bangs", "Blowout", "Big Hair", "Brush Cut", "Bun", "Chignon", "Croydon Facelift", "Crown Braid", "Double Buns", "Devilock", "Fallera Hairdo", "Flipped-up Ends", "Feathered Hair", "Fontange", "French Braid", "French Twist", "Fringe (bangs)", "Half Crown", "Half Updo", "Hime Cut", "Jewfro", "Jheri Curl", "Lauered Hair", "Liberty Spikes", "Lob", "Odango", "Oseledets", "Payot", "Perm", "Pigtails", "Ponyhawk", "Ponytail", "Psychobilly Wedge", "Queue", "The Rachel", "Rattail", "Razor Cut", "Ringlets", "Shag Cut", "Shingle Bob", "Step Cut", "Surfer Hair", "Tail on Back", "Updo", "Weave", "Asymmetric Cut", "Braid", "Cornrows", "Dreadlocks", "Extensions", "Finger Waves", "Fishtail Hair", "Highlights", "Natural"
 
 # COLORS
 COLORS = "Red", "Blue", "Yellow", "Green", "Orange", "Purple"
 
 # STREET NAMES
-STREETS = "Broadway", "Phillips"
+STREETS = "Broadway Street", "Phillips Street", "Pine Street", "Pine Road"
 
 # DIRECTIONS
 DIRECTIONS = "North", "East", "South", "West"
