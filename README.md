@@ -33,8 +33,14 @@ You can help the development of Emberly by sending in a ticket with your changes
 * Python
 
 ## Usage
-```git clone https://github.com/JessicaEmberlyOfficial/Emberly```
+```
+git clone https://github.com/JessicaEmberlyOfficial/Emberly
+```
 
-```cd Emberly```
+```
+cd Emberly
+```
 
-```python Emberly.py```
+```
+python Emberly.py
+```
