@@ -27,7 +27,7 @@ Emberly is a feature-rich character generator built in python.
 
 
 ## "How do I help?"
-You can help the development of Emberly by sending in a ticket with your changes.
+You can help the development of Emberly by sending in a ticket with your changes, or by becomning a sponsor.
 
 ## Requirements
 * Python
