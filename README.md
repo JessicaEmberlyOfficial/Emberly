@@ -19,6 +19,7 @@ Emberly is a feature-rich character generator built in python.
 * Save system
 
 ## Goals for the future
+* More language support
 * More weapons
 * More types of currency
 * More addresses
