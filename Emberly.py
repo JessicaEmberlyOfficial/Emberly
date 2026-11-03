@@ -9,9 +9,6 @@ time.sleep(1)
 # FAMILY TERM GENERATOR
 FAMILYTERMS = "Mother", "Father", "Son", "Daughter", "Brother", "Sister", "Aunt", "Uncle", "Cousin", "Neice", "Nephew", "Grandparent", "Grandchild", "In-law", "Stepmother", "Stepfather", "Stepson", "Stepdaughter"
 
-# FIRST NAMES GENERATOR
-FIRSTNAMES = "Alexis", "Jeff", "Jessica", "Ruby", "Trey", "John", "Jake", "Mark", "Jason", "Sarah", "Amy", "Gerald", "Rook", "Nik", "Emma", "Gabi", "Gabriella", "Emily", "Parker", "Don", "Donna", "Linda", "Charles", "Charlie", "Lucas", "Donald", "Vennice", "Victoria", "Sebastian", "Sharon", "Tiffany", "Jay", "Elmer", "Mike", "Nathan", "Greg", "Alexis", "Alexander", "Aaron", "Adrian", "Andrew", "Aahana", "Adam", "Adison", "Alice", "Amari", "Angel", "Anthony", "Ava", "Aaliyah", "Aaradhya", "Abigail", "Achilles", "Amy", "Aimée", "Anders", "Archer", "Audrey", "August", "Bob", "Benjamin", "Bixby", "Brian", "Blake", "Birtha", "Brandon", "Billy", "Bill", "Bobby", "Carol", "Candice", "Cindy", "Cynthia", "Dewy", "Dustin", "Drake", "Eric", "Eden", "Emmma", "Emily", "Siouxsie", "Liam", "Noah", "Oliver", "Olivia", "Amelia"
-
 # LAST NAME GENERATOR
 LASTNAMES = "Phillips", "Bowden", "Valentine", "Brown", "Jackson", "Henson", "Johnson", "Patel", "Silva", "Wang", "O'Conner", "Henderson", "Smith", "Perkins", "Thompson", "Rose", "Clem", "Pruett", "Sears", "Maxine", "Evelyn", "Gonzales"
 
@@ -101,7 +98,7 @@ direction = random.choice(DIRECTIONS)
 streetname = random.choice(STREETS)
 
 # CHOOSE FIRST NAME
-fn = random.choice(FIRSTNAMES)
+fn = random.choice(open("names.txt", "r").readlines())
 
 # CHOOSE LAST NAME
 ln = random.choice(LASTNAMES)
