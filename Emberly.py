@@ -98,7 +98,8 @@ direction = random.choice(DIRECTIONS)
 streetname = random.choice(STREETS)
 
 # CHOOSE FIRST NAME
-fn = random.choice(open("fn.txt", "r").readlines())
+fn = random.choice(open("names.txt", "r").readlines())
+fn = fn.strip()
 
 # CHOOSE LAST NAME
 ln = random.choice(LASTNAMES)
